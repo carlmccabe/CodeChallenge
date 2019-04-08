@@ -4,5 +4,5 @@ http://github.com - automatic!
 ### Daily Challenges
 
 #### Contents
-1. [Ruby] (https://github.com/carlmccabe/CodeChallenge/tree/master/Ruby)
+1. [Ruby](https://github.com/carlmccabe/CodeChallenge/tree/master/Ruby)
 Ruby core elements challenges
