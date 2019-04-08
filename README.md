@@ -1,5 +1,6 @@
 # Code Challenges
-
+http://github.com - automatic!
+[GitHub](http://github.com)
 ### Daily Challenges
 
 #### Contents
